@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+  When I initialize a repository, Git makes a .git repository (or 'folder') 
+  in the directory (or 'folder') I initialized the repository in.
+  I need to initialize a repository in order to have changes I make in the 
+  directory tracked by Git, so that I can make use of Git's version-control 
+  tools.
