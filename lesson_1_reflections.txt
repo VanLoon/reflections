@@ -1,0 +1,37 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+  The diff isolated every difference between the two versions, so the amount of code I had 
+  to read through was significantly smaller. Reading through fewer lines of code let me find
+  the bug more quickly, and with more certainty than reading through thousands more lines.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+  Having easy access to the entire history of a file could make me a more efficient programmer
+  in the long term because it would be like an external brain, remembering all the old ideas 
+  I put into a project so I wouldn't have to. If I had some good ideas and screwed them up, I 
+  wouldn't have to have those ideas all over again, I could just look them up.
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, versus having versions automatically saved, like Goodle docs does?
+  Pro: commits avoid the problem of illogical save points; they'll be more natural and easy
+  to use in comparing versions.
+  Con: you have to rely on a falliable human brain instead of a perfect computer to make 
+  commits, so they could be sloppily done. As with many things, 
+  they probably improve with practice.
+
+Why do you think some version control systems, like Git, allow saving multiple files
+in one commit, while others, like Google Docs, treat each file separately?
+  Some version control systems were designed and built for coding projects, and some were not.
+  Google Docs has a different purpose than Git, and this accounts for their different features.
+  
+How can you use the commands git log and git diff to view the history of files?
+  git log shows me a list of recent commits (changes made) with explanatory comments on each, 
+  and git diff lets me see what exactly changed from one commit to the next.
+
+How might using version control make you more confident to make changes
+that could break something?
+  I would be more courageous making potential break-making changes because 
+  all previous, working versions are saved for future reference.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+  At the moment, I really only want to use Git to complete this lesson. I don't have any other
+  projects at the moment, personal or otherwise, but I'm sure they'll come up eventually.
+
