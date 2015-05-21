@@ -25,4 +25,8 @@ organized? How would branches help?
   in trying different solutions to one problem, to compare for efficiency and 
   effectiveness.
   
+How do the diagrams help you visualize the branch structure?
+  The diagrams show all the branches in the repository, all the way back. 
+  They also help to visualize reachability and detached HEAD.
+  
   
