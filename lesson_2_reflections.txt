@@ -29,4 +29,11 @@ How do the diagrams help you visualize the branch structure?
   The diagrams show all the branches in the repository, all the way back. 
   They also help to visualize reachability and detached HEAD.
   
-  
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+  The result of merging two branches together is that the different versions of 
+  the same files are combined by an algorithm. The log of their commit histories 
+  is interwoven based on the time they were committed. We represent it in 
+  the diagram the way we do because it's easy to think of the different versions
+  of the same files as splitting and going down different paths for a while, before 
+  coming back together.
