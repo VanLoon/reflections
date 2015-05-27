@@ -43,3 +43,10 @@ What are the pros and cons of Git's automatic merging vs. always doing merges ma
   Cons: occasional conflicts that have to be sorted out, possibility of not going the 
     right way
 
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of the other?
+  A fork is a copy of someone's GitHub repository. It is a remote repository on GitHub.
+  A clone is a copy of a GitHub repository. It is a local repository on someone's computer.
+  A branch is a point of deviation between two versions of a Git repository. It can be
+  used for testing and tweaking experimental features without breaking the 'official version'.
+
