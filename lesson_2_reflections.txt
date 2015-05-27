@@ -37,3 +37,9 @@ the diagram the way we do?
   the diagram the way we do because it's easy to think of the different versions
   of the same files as splitting and going down different paths for a while, before 
   coming back together.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+  Pros: convenience, consistency
+  Cons: occasional conflicts that have to be sorted out, possibility of not going the 
+    right way
+
