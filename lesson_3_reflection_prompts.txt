@@ -14,3 +14,11 @@ stored locally?
   Having a copy of the last known state of the remote stored locally lets us check the
   changes we make against the remote version, as it last stood. It also helps in resolving
   merge conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+  To collaborate without using Git, I would use either Google Drive or Dropbox
+  to share files with my collaborators. It would be easier, because there is no
+  tricky command-line entry and no branch time-travel headaches. It would be
+  harder to keep everyone abreast of all changes, and to keep people consistently
+  publishing their latest versions and maintaining good version control.
