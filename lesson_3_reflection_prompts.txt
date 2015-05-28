@@ -22,3 +22,12 @@ and what would be harder?
   tricky command-line entry and no branch time-travel headaches. It would be
   harder to keep everyone abreast of all changes, and to keep people consistently
   publishing their latest versions and maintaining good version control.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+  You would want to make changes in a separate branch rather than directly in master whenever
+  you're working on something that will affect the nature or operation of the project. Even 
+  though it's simpler mentally to make all changes in master, it'll be safer and more 
+  rewarding to make changes in a separate branch. Safer, because you won't risk ruining work 
+  that's already committed. More rewarding because you'll be freer to explore options and 
+  possibilities through that little-to-no risk system.
